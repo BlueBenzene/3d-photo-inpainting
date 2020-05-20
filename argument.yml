@@ -11,10 +11,10 @@ traj_types: ['double-straight-line']
 video_postfix: ['dolly-zoom-in']
 specific: ''
 longer_side_len: 960
-src_folder: /gdrive/My\ Drive/image/
+src_folder: image
 depth_folder: depth
 mesh_folder: mesh
-video_folder: /gdrive/My\ Drive/video/
+video_folder: video
 load_ply: False
 save_ply: False
 inference_video: True
